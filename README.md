@@ -34,4 +34,4 @@ In conclusion, implementing a machine learning model in Python is a valuable ski
 
 #Output
 
-![Screenshot 2025-03-04 212521](https://github.com/user-attachments/assets/e0deade1-4797-429d-820c-c9a95e9a487c)
+
